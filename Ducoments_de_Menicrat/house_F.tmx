@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="8" nextobjectid="4">
+ <tileset firstgid="1" source="mini.tsx"/>
+ <tileset firstgid="8041" source="house5.tsx"/>
+ <tileset firstgid="8816" source="house3.tsx"/>
+ <tileset firstgid="9008" source="origene_house_2.tsx"/>
+ <tileset firstgid="9783" source="1620294938-house JJJJ.tsx"/>
+ <tileset firstgid="10558" source="Beach Tileset2.tsx"/>
+ <layer id="5" name="background" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJybIsDAMIUO+C8j7fCoHaN2jNoxaseoHaN2jNoxasdgs4NYLKfKwCCvSro+ADSVSbw=
+  </data>
+ </layer>
+ <layer id="7" name="element" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjILhBxw1B9oFo2AUjIJRQFsAABHJAGs=
+  </data>
+ </layer>
+ <objectgroup id="6" name="objects">
+  <object id="1" name="spawn_house_F" x="191.322" y="305.832">
+   <point/>
+  </object>
+  <object id="2" name="exit_house_F" x="176.387" y="386.913" width="30.5832" height="13.5135"/>
+  <object id="3" name="tresor" x="178.521" y="178.521" width="24.1821" height="29.872">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
