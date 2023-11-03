@@ -4,17 +4,17 @@ from Tic_Tac_Toc.Tic_Tac_Toc import game_tic_tac_toc
 from shooter.main import game_shooter
 from Machine_a_sous.machine_a_sous import game_machine_a_sous
 
-# from Snake.snake import game_snake
+from Snake.snake import game_snake
 
 
 def fenetre():
     def Machine_a_sous():
-        # window.destroy()
+        window.destroy() 
         game_machine_a_sous()
 
     def snake():
         window.destroy()
-        # game_snake()
+        game_snake()
 
     def tic_tac_toc():
         window.destroy()
@@ -74,7 +74,7 @@ def fenetre():
     tic_tac_toc_button.pack()
     snake_button = Button(
         frame,
-        image=photo_2,
+        image=photo_3,
         bg="#2C608C",
         padx=80,
         pady=100,
@@ -86,7 +86,7 @@ def fenetre():
     snake_button.pack()
     shooter_button = Button(
         frame,
-        image=photo_3,
+        image=photo_4,
         bg="#2C608C",
         padx=80,
         pady=100,
@@ -98,7 +98,7 @@ def fenetre():
     shooter_button.pack()
     Machine_a_sous_button = Button(
         frame,
-        image=photo_4,
+        image=photo_2,
         bg="#2C608C",
         padx=80,
         pady=100,
