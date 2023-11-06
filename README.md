@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to OWN GAME! This application offers five different games for an enjoyable gaming experience. Each game has its own unique gameplay and challenges. Whether you're a casual gamer or an avid enthusiast, there's something for everyone. Let's explore the details of each game:
+Welcome to OWN GAME! This application offers four different games for an enjoyable gaming experience. Each game has its own unique gameplay and challenges. Whether you're a casual gamer or an avid enthusiast, there's something for everyone. Let's explore the details of each game:
 
 ## Game Selection Interface
 
